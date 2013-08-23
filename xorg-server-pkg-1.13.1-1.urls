@@ -1,8 +1,8 @@
-https://projects.archlinux.org/svntogit/packages.git/tree/trunk/10-quirks.conf?h=packages/xorg-server&id=913968289b5a34beeea4161c3933a4859eaea495
-https://projects.archlinux.org/svntogit/packages.git/tree/trunk/PKGBUILD?h=packages/xorg-server&id=913968289b5a34beeea4161c3933a4859eaea495
-https://projects.archlinux.org/svntogit/packages.git/tree/trunk/autoconfig-nvidia.patch?h=packages/xorg-server&id=913968289b5a34beeea4161c3933a4859eaea495
-https://projects.archlinux.org/svntogit/packages.git/tree/trunk/autoconfig-sis.patch?h=packages/xorg-server&id=913968289b5a34beeea4161c3933a4859eaea495
-https://projects.archlinux.org/svntogit/packages.git/tree/trunk/git-fixes.patch?h=packages/xorg-server&id=913968289b5a34beeea4161c3933a4859eaea495
-https://projects.archlinux.org/svntogit/packages.git/tree/trunk/use-pixman-glyph-cache.patch?h=packages/xorg-server&id=913968289b5a34beeea4161c3933a4859eaea495
-https://projects.archlinux.org/svntogit/packages.git/tree/trunk/xvfb-run?h=packages/xorg-server&id=913968289b5a34beeea4161c3933a4859eaea495
-https://projects.archlinux.org/svntogit/packages.git/tree/trunk/xvfb-run.1?h=packages/xorg-server&id=913968289b5a34beeea4161c3933a4859eaea495
+https://projects.archlinux.org/svntogit/packages.git/plain/trunk/10-quirks.conf?h=packages/xorg-server&id=913968289b5a34beeea4161c3933a4859eaea495
+https://projects.archlinux.org/svntogit/packages.git/plain/trunk/PKGBUILD?h=packages/xorg-server&id=913968289b5a34beeea4161c3933a4859eaea495
+https://projects.archlinux.org/svntogit/packages.git/plain/trunk/autoconfig-nvidia.patch?h=packages/xorg-server&id=913968289b5a34beeea4161c3933a4859eaea495
+https://projects.archlinux.org/svntogit/packages.git/plain/trunk/autoconfig-sis.patch?h=packages/xorg-server&id=913968289b5a34beeea4161c3933a4859eaea495
+https://projects.archlinux.org/svntogit/packages.git/plain/trunk/git-fixes.patch?h=packages/xorg-server&id=913968289b5a34beeea4161c3933a4859eaea495
+https://projects.archlinux.org/svntogit/packages.git/plain/trunk/use-pixman-glyph-cache.patch?h=packages/xorg-server&id=913968289b5a34beeea4161c3933a4859eaea495
+https://projects.archlinux.org/svntogit/packages.git/plain/trunk/xvfb-run?h=packages/xorg-server&id=913968289b5a34beeea4161c3933a4859eaea495
+https://projects.archlinux.org/svntogit/packages.git/plain/trunk/xvfb-run.1?h=packages/xorg-server&id=913968289b5a34beeea4161c3933a4859eaea495
