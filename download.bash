@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 XORG=working/xorg
 EVDEV=working/evdev
@@ -22,3 +22,6 @@ mkdir -p $EVDEV
     cat ../../xf86-input-evdev-2.7.3-2.urls | wget -i-
     move
 )
+
+# TODO ; patch strings in PKGBUILD
+# TODO ; install base-devel
